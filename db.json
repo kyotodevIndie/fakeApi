@@ -1,0 +1,26 @@
+ {
+  "data": [
+    {
+      "origin": 11,
+      "destinations": [
+        { "destiny": 16, "TaxPerMinute": 1.9 },
+        { "destiny": 17, "TaxPerMinute": 1.7 },
+        { "destiny": 18, "TaxPerMinute": 0.9 }
+      ]
+    },
+    {
+      "origin": 16,
+      "destinations": [{ "destiny": 11, "TaxPerMinute": 2.9 }]
+    },
+
+    {
+      "origin": 17,
+      "destinations": [{ "destiny": 11, "TaxPerMinute": 2.7 }]
+    },
+
+    {
+      "origin": 18,
+      "destinations": [{ "destiny": 11, "TaxPerMinute": 1.9 }]
+    }
+  ]
+}
